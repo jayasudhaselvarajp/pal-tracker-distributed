@@ -6,6 +6,6 @@ applications:
   memory: 1G
   instances: 1
   env:
-    REGISTRATION_SERVER_ENDPOINT: http://backlog-pal-raja-ganesh.apps.pcf.paltraining.perficient.com/backlog
+    REGISTRATION_SERVER_ENDPOINT: https://registration-pal-raja-ganesh.apps.pcf.paltraining.perficient.com
   services:
   - tracker-backlog-database
